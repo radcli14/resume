@@ -9,7 +9,7 @@ www.github.com/radcli14
 
 ## Objective
 
-Pursuing opportunities to create mobile application content and improve my technical capabilities in the Swift and Kotlin programming languages.
+Pursuing opportunities to create mobile application content and improve my technical capabilities in the Swift and Kotlin programming languages. Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
 
 ## Education
@@ -72,10 +72,28 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 
 ## Miscellaneous
 
+ * __Security Clearance:__ SECRET, active since October 2010
+ * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
+ * __Programming:__ MATLAB (including Simulink/Simscape), Python, Kotlin, Swift, Mathematica, LabVIEW
+ * __Computer Aided Engineering:__ Abaqus, SIMPACK
+ * __Office/Typesetting:__ Microsoft Office, LaTeX
+
+
 ## Formal Communications
 
 ### Journal Article
 
+ * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “A Novel Design of a Feedback-Controlled Optical Microphone for Aeroacoustics Research,” Measurement Science and Technology, 21, 105208 (2010), https://iopscience.iop.org/article/10.1088/0957-0233/21/10/105208
+
+
 ### Patent
 
+ * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Acoustic Beam Forming Array Using Feedback-Controlled Microphones for Tuning and Self-Matching of Frequency Response,” US Patent 8,848,942, 30 September 2014
+
+
 ### Conference Proceedings
+
+ * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Design and Characterization of an Optical Feedback Controlled Microphone for Aeroacoustics Research,” 62nd Annual Meeting of the APS Division of Fluid Dynamics, 54 (9), Minneapolis, MN. Nov. 22-24 (2009)
+ * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., “An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
+ * R.N. Couch, E.J. Radcliffe, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, “Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
+ * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, “Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,” AIAA Aviation Forum, Chicago, IL, 29 June 2022, https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748
