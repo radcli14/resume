@@ -1,10 +1,8 @@
 # Eliott Radcliffe
 
-Washington, DC, USA
-
-[radcli14@gmail.com](mailto:radcli14@gmail.com)
-
-[www.github.com/radcli14]
+ * Washington, DC, USA
+ * [radcli14@gmail.com](mailto:radcli14@gmail.com)
+ * [github.com/radcli14](www.github.com/radcli14)
 
 
 ## Objective
