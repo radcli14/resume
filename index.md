@@ -2,7 +2,7 @@
 
  * Washington, DC, USA
  * [radcli14@gmail.com](mailto:radcli14@gmail.com)
- * [github.com/radcli14](www.github.com/radcli14)
+ * [github.com/radcli14](https://github.com/radcli14)
 
 
 ## Objective
