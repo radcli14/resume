@@ -89,7 +89,7 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 
  * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Acoustic Beam Forming Array Using Feedback-Controlled Microphones for Tuning and Self-Matching of Frequency Response,” US Patent 8,848,942, 30 September 2014,
 [https://ntrs.nasa.gov/api/citations/20150003428/
-downloads/20150003428.pdf](https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf)
+ downloads/20150003428.pdf](https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf)
 
 
 ### Conference Proceedings
