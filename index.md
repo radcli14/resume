@@ -81,17 +81,19 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 
 ### Journal Article
 
- * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “A Novel Design of a Feedback-Controlled Optical Microphone for Aeroacoustics Research,” Measurement Science and Technology, 21, 105208 (2010), [https://iopscience.iop.org/article/10.1088/0957-0233/21/10/105208](https://iopscience.iop.org/article/10.1088/0957-0233/21/10/105208)
+ * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “A Novel Design of a Feedback-Controlled Optical Microphone for Aeroacoustics Research,” Measurement Science and Technology, 21, 105208 (2010), 
+[https://iopscience.iop.org/article/10.1088/0957-0233/21/10/105208](https://iopscience.iop.org/article/10.1088/0957-0233/21/10/105208)
 
 
 ### Patent
 
- * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Acoustic Beam Forming Array Using Feedback-Controlled Microphones for Tuning and Self-Matching of Frequency Response,” US Patent 8,848,942, 30 September 2014
+ * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Acoustic Beam Forming Array Using Feedback-Controlled Microphones for Tuning and Self-Matching of Frequency Response,” US Patent 8,848,942, 30 September 2014,
+[https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf](https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf)
 
 
 ### Conference Proceedings
 
  * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Design and Characterization of an Optical Feedback Controlled Microphone for Aeroacoustics Research,” 62nd Annual Meeting of the APS Division of Fluid Dynamics, 54 (9), Minneapolis, MN. Nov. 22-24 (2009)
  * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., “An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
- * R.N. Couch, E.J. Radcliffe, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, “Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
+ * R.N. Couch, E.J. Radcliffe oh, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, “Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, “Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,” AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
