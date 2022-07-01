@@ -64,7 +64,7 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 
  * _Research Intern, Graduate Student Researchers Program (GSRP) Fellowship_
    - Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
-   - Interfaced with NASA experts in the fields of acoustical measurement and digital signal processing
+   - Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
    - Presented findings to branch and GSRP peer groups
 
 
@@ -97,3 +97,17 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
  * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., “An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
  * R.N. Couch, E.J. Radcliffe oh, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, “Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, “Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,” AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
+
+
+## Code Examples
+
+__SwiftyTwoLinks and KotlyOtlyDobleDosLinks__
+
+ * Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulm
+ * Physics-based 3D rendering using `SceneKit` and `ScenView`
+ * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
+
+__Double Pendulum Simulation__
+
+ * Derivation of equations of motion for the TwoLinks apps, using the Python `sympy.physics.mechanics` module, `scipy`, `numpy`, and `matplotlib`
+ * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
