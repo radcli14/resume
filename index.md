@@ -104,10 +104,10 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 __SwiftyTwoLinks and KotlyOtlyDobleDosLinks__
 
  * Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulm
- * Physics-based 3D rendering using `SceneKit` and `ScenView`
+ * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
  * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
 __Double Pendulum Simulation__
 
  * Derivation of equations of motion for TwoLinks in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
- * [https://gist.github.com/radcli14/...](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
+ * [https://gist.github.com/radcli14/doublePendulum.ipynb](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
