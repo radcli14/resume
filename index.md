@@ -46,7 +46,7 @@ __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct
    - Supported conceptualization, manufacturing, and integration of test equipment
    - Conducted modal survey testing and analyzed test data for finite element model validation
    - Analyzed flexible missile airframe dynamics, and derived shock and vibration loads
-   - Developed custom code for control surface and airframe aeroelasticity for stability analysis
+   - Developed custom aeroelasticity code for control surface and airframe stability analysis
 
 
 __DC Simulation Studio__ : Washington, DC : Oct. 2019 - Present
