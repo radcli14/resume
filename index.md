@@ -2,7 +2,7 @@
 
  * Washington, DC, USA
  * [radcli14@gmail.com](mailto:radcli14@gmail.com)
- * [github.com/radcli14](https://github.com/radcli14)
+ * [https://github.com/radcli14](https://github.com/radcli14)
 
 
 ## Objective
@@ -37,7 +37,7 @@ __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct
    - Briefed results of APL analyses to government and industry teams
    - Created archival documentation describing functionality of critical hardware subsystems   
  
- * _System Identification and Propulsion Test \& Evaluation_
+ * _System Identification and Propulsion Test & Evaluation_
    - Developed algorithms for modal identification, inverse dynamics, and digital signal processing
    - Analyzed test measurements to evaluate dynamic thrust performance requirements
    - Supported conceptualization, manufacturing, and integration of test equipment
