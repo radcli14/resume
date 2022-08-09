@@ -32,7 +32,7 @@ ________________________________________________________________________
 __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct. 2010 - Present
  
  * _Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group_
-   - Managed tasking portfolio for 5 professional staff with advanced expertise in mechanical engineering dynamics  
+   - Managed tasking portfolio for 5 professional staff with advanced expertise in mechanical engineering  
    - Marketed section capabilities to internal program management and external government sponsors
    - Facilitated section meetings and performance coaching sessions, attended group leadership meetings          
  
@@ -44,8 +44,9 @@ __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct
  * _Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation_
    - Developed algorithms for inverse force reconstruction and digital signal processing
    - Supported conceptualization, manufacturing, and integration of test equipment
-   - Applied structural dynamics methods for modal survey testing and finite element model validation
-   - Analyzed flexible missile airframe dynamics, shock and vibration, launch and stage separation, and dynamic loads
+   - Conducted modal survey testing and analyzed test data for finite element model validation
+   - Analyzed flexible missile airframe dynamics, and derived shock and vibration loads
+   - Developed custom code for control surface and airframe aeroelasticity for stability analysis
 
 
 __DC Simulation Studio__ : Washington, DC : Oct. 2019 - Present
