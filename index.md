@@ -5,10 +5,14 @@
  * [https://github.com/radcli14](https://github.com/radcli14)
 
 
+________________________________________________________________________
+
 ## Objective
 
 Pursuing opportunities to create mobile application content and improve my technical capabilities in the Swift and Kotlin programming languages. Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
+
+________________________________________________________________________
 
 ## Education
 
@@ -22,7 +26,9 @@ __Michigan State University__ : East Lansing, MI : Sep. 2004 - Dec. 2007
 
  * _Bachelor of Science in Mechanical Engineering_ 
       
-      
+
+________________________________________________________________________
+
 ## Experience
 
 __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct. 2010 - Present
@@ -72,6 +78,8 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
    - Presented findings to branch and GSRP peer groups
 
 
+________________________________________________________________________
+
 ## Miscellaneous
 
  * __Security Clearance:__ SECRET, active since October 2010
@@ -80,6 +88,8 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
  * __Computer Aided Engineering:__ Abaqus, SIMPACK
  * __Office/Typesetting:__ Microsoft Office, LaTeX
 
+
+________________________________________________________________________
 
 ## Formal Communications
 
@@ -102,6 +112,8 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
  * R.N. Couch, E.J. Radcliffe oh, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, “Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,” 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, “Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,” AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
 
+
+________________________________________________________________________
 
 ## Code Examples
 
