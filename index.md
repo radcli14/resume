@@ -41,14 +41,10 @@ __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct
    - Briefed results of APL analyses to government and industry teams
    - Created archival documentation describing functionality of critical hardware subsystems   
  
- * _System Identification and Propulsion Test & Evaluation_
-   - Developed algorithms for modal identification, inverse dynamics, and digital signal processing
-   - Analyzed test measurements to evaluate dynamic thrust performance requirements
+ * _Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation_
+   - Developed algorithms for inverse force reconstruction and digital signal processing
    - Supported conceptualization, manufacturing, and integration of test equipment
- 
- * _Missile Structural Dynamics_
    - Applied structural dynamics methods for modal survey testing and finite element model validation
-   - Represented APL as an environments engineering lead at government/industry interchange meetings
    - Analyzed flexible missile airframe dynamics, shock and vibration, launch and stage separation, and dynamic loads
 
 
