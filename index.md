@@ -121,5 +121,5 @@ __SwiftyTwoLinks and KotlyOtlyDobleDosLinks__
 
 __Double Pendulum Simulation__
 
- * Derivation of equations of motion for TwoLinks in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
+ * Derivation of equations of motion in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
  * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
