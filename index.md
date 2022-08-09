@@ -13,10 +13,13 @@ Pursuing opportunities to create mobile application content and improve my techn
 ## Education
 
 __Michigan State University__ : East Lansing, MI : Jan. 2008 - Jun. 2010
+
  * _Master of Science in Mechanical Engineering_ 
  * _Thesis:_ Development of an Optical Feedback-Controlled Microphone for Aeroacoustics Research
 
+
 __Michigan State University__ : East Lansing, MI : Sep. 2004 - Dec. 2007
+
  * _Bachelor of Science in Mechanical Engineering_ 
       
       
@@ -46,6 +49,7 @@ __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct
 
 
 __DC Simulation Studio__ : Washington, DC : Oct. 2019 - Present
+
  * _Founder and Independent Software Developer_
    - Created “Mobile Multibody Dynamics” app, the first-of-its-kind for Android and iOS
    - Developed code in Python, Kotlin, and Swift for multi-platform deployment
@@ -88,7 +92,7 @@ __NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
 ### Patent
 
  * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, “Acoustic Beam Forming Array Using Feedback-Controlled Microphones for Tuning and Self-Matching of Frequency Response,” US Patent 8,848,942, 30 September 2014,
-[https://ntrs.nasa.gov/.../20150003428.pdf](https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf)
+[https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf](https://ntrs.nasa.gov/api/citations/20150003428/downloads/20150003428.pdf)
 
 
 ### Conference Proceedings
@@ -107,7 +111,8 @@ __SwiftyTwoLinks and KotlyOtlyDobleDosLinks__
  * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
  * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
+
 __Double Pendulum Simulation__
 
  * Derivation of equations of motion for TwoLinks in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
- * [https://gist.github.com/radcli14/doublePendulum.ipynb](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
+ * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
