@@ -7,7 +7,8 @@
 
 ## Objective
 
-Pursuing opportunities to create mobile application content and improve my technical capabilities in the Swift and Kotlin programming languages. Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
+Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
+Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
 
 ________________________________________________________________________
@@ -32,27 +33,26 @@ ________________________________________________________________________
 __Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct. 2010 - Present
  
  * _Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group_
-   - Managed tasking portfolio for 5 professional staff with advanced expertise in mechanical engineering  
-   - Marketed section capabilities to internal program management and external government sponsors
-   - Facilitated section meetings and performance coaching sessions, attended group leadership meetings          
+   - Managed 5 professional staff with advanced engineering degrees and research expertise 
+   - Developed new business opportunities by building relationships with program management and government sponsors
+   - Coached staff members through the definition and achievement of their personal career objectives
  
  * _Missile Lead Engineer_
-   - Led hardware sustainment & reliability, trajectory simulation, and hardware in the loop test teams
+   - Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
    - Briefed results of APL analyses to government and industry teams
    - Created archival documentation describing functionality of critical hardware subsystems   
  
  * _Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation_
-   - Developed algorithms for inverse force reconstruction and digital signal processing
+   - Developed modal analysis and digital signal processing algorithms in MATLAB and Python
+   - Created flexible missile airframe dynamics simulation models using finite element modeling and multibody dynamics software, including Abaqus and SimScape Multibody
    - Supported conceptualization, manufacturing, and integration of test equipment
-   - Conducted modal survey testing and analyzed test data for finite element model validation
-   - Analyzed flexible missile airframe dynamics, and derived shock and vibration loads
-   - Developed custom aeroelasticity code for control surface and airframe stability analysis
+   - Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
 
 
 __DC Simulation Studio__ : Washington, DC : Oct. 2019 - Present
 
  * _Founder and Independent Software Developer_
-   - Created “Mobile Multibody Dynamics” app, the first-of-its-kind for Android and iOS
+   - Created “Mobile Multibody Dynamics,” the first-of-its-kind for Android and iOS
    - Developed code in Python, Kotlin, and Swift for multi-platform deployment
    - Marketed the application on the web and social media
 
