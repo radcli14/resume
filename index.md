@@ -7,7 +7,8 @@
 
 ## Objective
 
-Pursuing opportunities to create mobile application content and improve my technical capabilities in the Swift and Kotlin programming languages. Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
+Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
+Particularly interested in bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
 
 ________________________________________________________________________
