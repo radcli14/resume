@@ -7,3 +7,5 @@ Alternately, I have compiled a version to PDF using `pandoc` with the following 
 ```
 pandoc --variable "geometry=margin=0.5in" index.md --pdf-engine=xelatex -o resume.pdf
 ```
+
+Or, even better, can compile with a custom header using the `makeresume.py` script.
