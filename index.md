@@ -90,7 +90,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### Double Pendulum Simulation
 
-* Derivation of equations of motion in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
+* Derivation of equations of motion in Python, using `sympy`, `scipy`, `numpy`, and `matplotlib`
 * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
 
 
@@ -112,6 +112,6 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, _“Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,”_ AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
  * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., _“An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
- * R.N. Couch, E.J. Radcliffe oh, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, _“Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
+ * R.N. Couch, E.J. Radcliffe, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, _“Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
  * E.J. Radcliffe, A.M. Naguib, W.M. Humphreys, _“Design and Characterization of an Optical Feedback Controlled Microphone for Aeroacoustics Research,”_ 62nd Annual Meeting of the APS Division of Fluid Dynamics, 54 (9), Minneapolis, MN. Nov. 22-24 (2009)
  

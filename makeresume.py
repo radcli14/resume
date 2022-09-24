@@ -1,6 +1,8 @@
 import os
 from datetime import datetime
 
+margin = 0.75 # 0.6283185307179586
+
 # Current date and time
 now = datetime.now()
 dateString = now.strftime('%Y%m%d')
@@ -11,7 +13,7 @@ pdfString = f'RadcliffeEliott_Resume_{dateString}.pdf'
 
 # Use pandoc to write the initial LaTeX file, with narrower margins than default
 os.system('pandoc ' +
-          '--variable "geometry=margin=0.6283185307179586in" ' +
+          f'--variable "geometry=margin={margin}in" ' +
           '--variable mainfont="Roboto" ' +
           '--variable monofont="Roboto Mono" ' +
           f'-s index.md -o {fileString}')
