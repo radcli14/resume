@@ -27,69 +27,80 @@ __Michigan State University__ : East Lansing, MI : Sep. 2004 - Dec. 2007
 
 ## Experience
 
-__Johns Hopkins University Applied Physics Laboratory (APL)__ : Laurel, MD : Oct. 2010 - Present
+### Johns Hopkins University Applied Physics Laboratory (APL) 
+ * Laurel, MD
+ * Oct. 2010 - Present
  
- * _Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group_
-   - Managed 5 professional staff with advanced engineering degrees and research expertise 
-   - Pursued new business opportunities by building relationships with program management and sponsors
-   - Coached staff members through the definition and achievement of their personal career objectives
+#### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group
+
+ * Managed 5 professional staff with advanced engineering degrees and research expertise 
+ * Pursued new business opportunities by building relationships with program management and sponsors
+ * Coached staff members through the definition and achievement of their personal career objectives
  
- * _System Lead Engineer_
-   - Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
-   - Briefed results of APL analyses to government and industry teams
-   - Authored archival documentation describing functionality of critical hardware subsystems   
+#### System Lead Engineer
+
+ * Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
+ * Briefed results of APL analyses to government and industry teams
+ * Authored documentation describing functionality of critical hardware subsystems   
  
- * _Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation_
-   - Developed modal analysis and digital signal processing algorithms in MATLAB and Python
-   - Created flexible airframe dynamics simulation models using finite element modeling and multibody dynamics software, including Abaqus and SimScape Multibody
-   - Supported conceptualization, manufacturing, and integration of test equipment
-   - Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
+#### Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation
+
+ * Developed modal analysis and digital signal processing algorithms in MATLAB and Python
+ * Created flexible airframe dynamics simulation models using finite element modeling and multibody dynamics software, including Abaqus and SimScape Multibody
+ * Supported conceptualization, manufacturing, and integration of test equipment
+ * Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
 
 
-__DC Simulation Studio__ : Washington, DC : Oct. 2019 - Present
+### DC Simulation Studio
+ * Washington, DC 
+ * Oct. 2019 - Present
 
- * _Founder and Independent Software Developer_
-   - Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
-   - Wrote code in Python, Kotlin, and Swift for multi-platform deployment
-   - Marketed on the web and social media
-   - Released five applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
-
-
-__Michigan State University Flow Physics and Control Laboratory__ : East Lansing, MI : Jan. 2008 - Aug. 2010
-
- * _Research Assistant_
-   - Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
-   - Implemented control system design techniques and evaluated optical displacement sensor technologies
-   - Published results in a peer reviewed journal article and received a US patent
+#### Founder and Independent Software Developer
+ * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
+ * Wrote code in Python, Kotlin, and Swift for multi-platform deployment
+ * Marketed on the web and social media
+ * Released five applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 
-__NASA Langley Research Center__ :  Hampton, VA : Jan. 2008 - Aug. 2010
+### Michigan State University Flow Physics and Control Laboratory
+ * East Lansing, MI
+ * Jan. 2008 - Aug. 2010
 
- * _Research Intern, Graduate Student Researchers Program (GSRP) Fellowship_
-   - Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
-   - Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
-   - Presented findings to branch and GSRP peer groups
+#### Research Assistant
+ * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
+ * Implemented control system design techniques and evaluated optical displacement sensor technologies
+ * Published results in a peer reviewed journal article and received a US patent
+
+
+### NASA Langley Research Center 
+ * Hampton, VA
+ * Jan. 2008 - Aug. 2010
+
+#### Research Intern, Graduate Student Researchers Program (GSRP) Fellowship
+ * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
+ * Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
+ * Presented findings to branch and GSRP peer groups
 
    
 ## Miscellaneous
 
  * __Security Clearance:__ SECRET, active since October 2010
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
- * __Programming:__ Python, Kotlin, Swift, MATLAB (including Simulink/Simscape), Mathematica, LabVIEW
+ * __Programming:__ Python, Kotlin, Swift, C#, MATLAB (including Simulink/Simscape), Mathematica, LabVIEW
  * __Computer Aided Engineering:__ Abaqus, SIMPACK
  * __Office/Typesetting:__ Microsoft Office, LaTeX
 
 
 ## Code Examples
 
-__SwiftyTwoLinks and KotlyOtlyDobleDosLinks__
+### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
 
 * Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulm
 * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
 * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
 
-__Double Pendulum Simulation__
+### Double Pendulum Simulation
 
 * Derivation of equations of motion in Python, using `sympy.physics.mechanics`, `scipy`, `numpy`, and `matplotlib`
 * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
