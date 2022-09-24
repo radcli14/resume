@@ -8,7 +8,7 @@
 ## Objective
 
 Pursuing opportunities to create mobile application content and improve my technical abilities in the Kotlin and Swift programming languages. 
-My professional goal is to transition from a mechanical to software engineering career, where I will join a team of visionaries who produce large-scale and production-ready code.
+My professional goal is to transition from a mechanical to software engineering career.
 A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
 
