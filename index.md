@@ -14,16 +14,12 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ## Education
 
-__Michigan State University__ : East Lansing, MI : Jan. 2008 - Jun. 2010
-
- * _Master of Science in Mechanical Engineering_ 
+### M.S. Mechanical Engineering, Michigan State University, Jun. 2010
+ * Specialization in Dynamics and Vibration
  * _Thesis:_ Development of an Optical Feedback-Controlled Microphone for Aeroacoustics Research
 
+### B.S. Mechanical Engineering, Michigan State University, Dec. 2007
 
-__Michigan State University__ : East Lansing, MI : Sep. 2004 - Dec. 2007
-
- * _Bachelor of Science in Mechanical Engineering_ 
-      
 
 ## Experience
 
