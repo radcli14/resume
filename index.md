@@ -14,18 +14,18 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ## Education
 
-### M.S. Mechanical Engineering, Michigan State University, Jun. 2010
+### M.S. Mechanical Engineering, Michigan State University, 2010
  * Specialization in Dynamics and Vibration
  * _Thesis:_ Development of an Optical Feedback-Controlled Microphone for Aeroacoustics Research
 
-### B.S. Mechanical Engineering, Michigan State University, Dec. 2007
+### B.S. Mechanical Engineering, Michigan State University, 2007
 
 
 ## Experience
 
 ### Johns Hopkins University Applied Physics Laboratory (APL) 
  * Laurel, MD
- * Oct. 2010 - Present
+ * 2010 - Present
  
 #### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group
 
@@ -49,7 +49,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### DC Simulation Studio
  * Washington, DC 
- * Oct. 2019 - Present
+ * 2019 - Present
 
 #### Founder and Independent Software Developer
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
@@ -60,7 +60,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### Michigan State University Flow Physics and Control Laboratory
  * East Lansing, MI
- * Jan. 2008 - Aug. 2010
+ * 2008 - 2010
 
 #### Research Assistant
  * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
@@ -70,7 +70,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### NASA Langley Research Center 
  * Hampton, VA
- * Jan. 2008 - Aug. 2010
+ * 2008 - 2010
 
 #### Research Intern, Graduate Student Researchers Program (GSRP) Fellowship
  * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
