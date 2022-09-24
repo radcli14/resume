@@ -23,9 +23,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ## Experience
 
-### Johns Hopkins University Applied Physics Laboratory (APL) 
- * Laurel, MD
- * 2010 - Present
+### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - Present
  
 #### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group
 
@@ -47,9 +45,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
 
 
-### DC Simulation Studio
- * Washington, DC 
- * 2019 - Present
+### DC Simulation Studio, 2019 - Present
 
 #### Founder and Independent Software Developer
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
@@ -58,9 +54,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Released five applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 
-### Michigan State University Flow Physics and Control Laboratory
- * East Lansing, MI
- * 2008 - 2010
+### Michigan State University Flow Physics and Control Laboratory, 2008 - 2010
 
 #### Research Assistant
  * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
@@ -68,9 +62,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Published results in a peer reviewed journal article and received a US patent
 
 
-### NASA Langley Research Center 
- * Hampton, VA
- * 2008 - 2010
+### NASA Langley Research Center, 2008 - 2010
 
 #### Research Intern, Graduate Student Researchers Program (GSRP) Fellowship
  * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
