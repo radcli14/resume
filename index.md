@@ -91,7 +91,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
 
-* Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulm
+* Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulum
 * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
 * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
