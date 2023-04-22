@@ -74,8 +74,8 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
  * __Security Clearance:__ SECRET, active since October 2010
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
- * __Programming:__ Python, Kotlin, Swift, C#, MATLAB (including Simulink/Simscape), Mathematica, LabVIEW
- * __Computer Aided Engineering:__ Abaqus, SIMPACK
+ * __Programming:__ Python, Kotlin, Swift, C#, MATLAB, Mathematica, LabVIEW
+ * __Computer Aided Engineering:__ Abaqus, SIMPACK, Simulink, Simscape Multibody
  * __Office/Typesetting:__ Microsoft Office, LaTeX
 
 
