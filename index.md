@@ -25,13 +25,14 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - Present
  
-#### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group
+#### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group (2017-2023)
 
- * Managed 5 professional staff with advanced engineering degrees and research expertise 
+ * Managed 7 professional staff with advanced engineering degrees and research expertise
+ * Navigated the COVID-19 pandemic with zero furloughs, layoffs, or resignations
  * Pursued new business opportunities by building relationships with program management and sponsors
  * Coached staff members through the definition and achievement of their personal career objectives
  
-#### System Lead Engineer
+#### Lead Engineer (2015-2016, 2020-2023)
 
  * Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
  * Briefed results of APL analyses to government and industry teams
@@ -75,6 +76,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * __Security Clearance:__ SECRET, active since October 2010
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
  * __Programming:__ Python, Kotlin, Swift, C#, MATLAB, Mathematica, LabVIEW
+ * __Frameworks:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform, Unity, SceneKit, Google Filament
  * __Computer Aided Engineering:__ Abaqus, SIMPACK, Simulink, Simscape Multibody
  * __Office/Typesetting:__ Microsoft Office, LaTeX
 
