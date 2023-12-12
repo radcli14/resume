@@ -112,7 +112,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### Conference Proceedings
 
- * E. J. Radcliffe, D. P. Seker, E. Y. Chen, N. N. Horne, J. L. Hill, _"Determination of a Predictive Model for Print Quality of Desktop 3D Printers While at Sea,"_ ASME International Design Engineering Technical Conference, Boston, MA, IDETC-CIE-112599, 20 August 2023
+ * E. J. Radcliffe, D. P. Seker, E. Y. Chen, N. N. Horne, J. L. Hill, _"Determination of a Predictive Model for Print Quality of Desktop 3D Printers While at Sea,"_ ASME International Design Engineering Technical Conference, Boston, MA, IDETC-CIE-112599, 20 August 2023, [https://doi.org/10.1115/DETC2023-112599](https://doi.org/10.1115/DETC2023-112599)
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, _“Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,”_ AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
  * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., _“An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
  * R.N. Couch, E.J. Radcliffe, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, _“Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
