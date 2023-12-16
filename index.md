@@ -1,7 +1,7 @@
 # Eliott Radcliffe
 
  * Washington, DC, USA
- * [radcli14@gmail.com](mailto:radcli14@gmail.com)
+ * [eliott.radcliffe@dc-engineer.com](mailto:eliott.radcliffe@dc-engineer.com)
  * [https://github.com/radcli14](https://github.com/radcli14)
 
 
@@ -23,7 +23,15 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ## Experience
 
-### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - Present
+### DCDC LLC, 2023 - Present
+
+#### Founder and Independent Software Developer
+ * Provide mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
+ * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
+ * Wrote code in Python, Kotlin, and Swift for multi-platform deployment
+ * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767))
+
+### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
 #### Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group (2017-2023)
 
@@ -46,18 +54,10 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
 
 
-### DC Simulation Studio, 2019 - Present
-
-#### Founder and Independent Software Developer
- * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
- * Wrote code in Python, Kotlin, and Swift for multi-platform deployment
- * Marketed on the web and social media
- * Released five applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
-
-
 ### Michigan State University Flow Physics and Control Laboratory, 2008 - 2010
 
 #### Research Assistant
+
  * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
  * Implemented control system design techniques and evaluated optical displacement sensor technologies
  * Published results in a peer reviewed journal article and received a US patent
@@ -66,6 +66,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 ### NASA Langley Research Center, 2008 - 2010
 
 #### Research Intern, Graduate Student Researchers Program (GSRP) Fellowship
+
  * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
  * Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
  * Presented findings to branch and GSRP peer groups
@@ -73,15 +74,21 @@ A long term personal goal is to apply these skills to bringing education-grade e
    
 ## Miscellaneous
 
- * __Security Clearance:__ SECRET, active since October 2010
- * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
  * __Programming:__ Python, Kotlin, Swift, C#, MATLAB, Mathematica, LabVIEW
  * __Frameworks:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform, Unity, SceneKit, Google Filament
- * __Computer Aided Engineering:__ Abaqus, SIMPACK, Simulink, Simscape Multibody
+ * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
+ * __Security Clearance:__ SECRET, active from 2010-2023
+ * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
  * __Office/Typesetting:__ Microsoft Office, LaTeX
 
 
 ## Code Examples
+
+### YouKon
+
+* Unit conversion app designed for engineers, written with Kotlin Multiplatform Mobile
+* Native interfaces for iOS with SwiftUI and Android with Jetpack Compose
+* [https://github.com/radcli14/youkon](https://github.com/radcli14/youkon)
 
 ### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
 
@@ -112,7 +119,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### Conference Proceedings
 
- * E. J. Radcliffe, D. P. Seker, E. Y. Chen, N. N. Horne, J. L. Hill, _"Determination of a Predictive Model for Print Quality of Desktop 3D Printers While at Sea,"_ ASME International Design Engineering Technical Conference, Boston, MA, IDETC-CIE-112599, 20 August 2023, [https://doi.org/10.1115/DETC2023-112599](https://doi.org/10.1115/DETC2023-112599)
+ * E.J. Radcliffe, D.P. Seker, E.Y. Chen, N.N. Horne, J.L. Hill, _"Determination of a Predictive Model for Print Quality of Desktop 3D Printers While at Sea,"_ ASME International Design Engineering Technical Conference, Boston, MA, IDETC-CIE-112599, 20 August 2023, [https://doi.org/10.1115/DETC2023-112599](https://doi.org/10.1115/DETC2023-112599)
  * J.T. Melcher, E.J. Radcliffe, C.S. Butler, B.M. Wheaton, _“Effects of Aeroelasticity on Flight Dynamics in the Boundary Layer Transition (BOLT) Experiment,”_ AIAA Aviation Forum, Chicago, IL, 29 June 2022, [https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748](https://arc.aiaa.org/doi/abs/10.2514/6.2022-3748)
  * B.J. Olson, E.J. Radcliffe, R.J. Monroe, B.J. Vidmar, and R.A. Caldwell Jr., _“An Inverse Force Identification Methodology for High-fidelity Dynamic Thrust Measurements of Guided Interceptor Missile Divert and Attitude Control Systems,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-402, 2014
  * R.N. Couch, E.J. Radcliffe, B.J. Olson, R.A. Caldwell Jr., and B.F. Feeny, _“Modal Parameter Identification of a Missile Launcher Structure for Finite Element Model Correlation,”_ 17th U.S. National Congress on Theoretical & Applied Mechanics (East Lansing, Michigan), Abstract D-10-1180, 2014
