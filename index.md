@@ -29,7 +29,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Provide mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
  * Wrote code in Python, Kotlin, and Swift for multi-platform deployment
- * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767))
+ * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
