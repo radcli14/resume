@@ -7,7 +7,7 @@
 
 ## Objective
 
-Pursuing opportunities to create mobile application content and improve my technical abilities in the Kotlin and Swift programming languages. 
+Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
 My professional goal is to transition from a mechanical to software engineering career.
 A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms.
 
@@ -15,8 +15,8 @@ A long term personal goal is to apply these skills to bringing education-grade e
 ## Education
 
 ### M.S. Mechanical Engineering, Michigan State University, 2010
- * Specialization in Dynamics and Vibration
- * _Thesis:_ Development of an Optical Feedback-Controlled Microphone for Aeroacoustics Research
+ * Specialization in dynamics and vibration
+ * Thesis: _Development of an Optical Feedback-Controlled Microphone for Aeroacoustics Research_
 
 ### B.S. Mechanical Engineering, Michigan State University, 2007
 
@@ -26,10 +26,10 @@ A long term personal goal is to apply these skills to bringing education-grade e
 ### DCDC LLC, 2023 - Present
 
 #### Founder and Independent Software Developer
- * Provide mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
+ * Providing mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
- * Wrote code in Python, Kotlin, and Swift for multi-platform deployment
- * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767))
+ * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
+ * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
@@ -74,12 +74,12 @@ A long term personal goal is to apply these skills to bringing education-grade e
    
 ## Miscellaneous
 
- * __Programming:__ Python, Kotlin, Swift, C#, MATLAB, Mathematica, LabVIEW
+ * __Programming:__ Swift, Kotlin, Python, C#, MATLAB, Mathematica, LabVIEW
  * __Frameworks:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform, Unity, SceneKit, Google Filament
  * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
- * __Security Clearance:__ SECRET, active from 2010-2023
- * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
  * __Office/Typesetting:__ Microsoft Office, LaTeX
+ * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
+ * __Security Clearance:__ SECRET, active from 2010-2023
 
 
 ## Code Examples

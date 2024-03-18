@@ -35,7 +35,7 @@ oldHeader = r"""
 \item
   Washington, DC, USA
 \item
-  \href{mailto:radcli14@gmail.com}{\nolinkurl{radcli14@gmail.com}}
+  \href{mailto:eliott.radcliffe@dc-engineer.com}{\nolinkurl{eliott.radcliffe@dc-engineer.com}}
 \item
   \url{https://github.com/radcli14}
 \end{itemize}
@@ -46,7 +46,7 @@ newHeader = r"""
 \begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}l}
 	\begin{tabular}[c]{@{}l@{}}
 		Washington, DC, USA \\ 
-		\href{mailto:radcli14@gmail.com}{\nolinkurl{radcli14@gmail.com}} \\
+		\href{mailto:eliott.radcliffe@dc-engineer.com}{\nolinkurl{eliott.radcliffe@dc-engineer.com}} \\
 		\url{https://github.com/radcli14}
 	\end{tabular} 
 	& 
