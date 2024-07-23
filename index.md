@@ -78,7 +78,8 @@ A long term personal goal is to apply these skills to bringing education-grade e
 ## Miscellaneous
 
  * __Programming:__ Swift, Kotlin, Python, C#, MATLAB, Mathematica, LabVIEW
- * __Frameworks:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform, Unity, SceneKit, Google Filament
+ * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
+ * __3-D Rendering:__ Unity, SceneKit, RealityKit, Google Filament, Three.js
  * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
  * __Office/Typesetting:__ Microsoft Office, LaTeX
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
