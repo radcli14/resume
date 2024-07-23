@@ -31,7 +31,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Providing mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
  * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
- * Applied the machine learning framework TensorFlow towards the estimation of aerodynamic properties of road vehicles
+ * Applied the machine learning framework TensorFlow to the estimation of aerodynamic properties of race cars
  * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
