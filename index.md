@@ -7,9 +7,11 @@
 
 ## Objective
 
-Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
+Seeking leadership opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
+I am passionate about modeling and simulation of moving mechanical assemblies, and 3-D design and rendering of those systems on novel platforms, including mobile devices.
+<!--- Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
 My professional goal is to transition from a mechanical to software engineering career.
-A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms.
+A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms. --->
 
 
 ## Education
@@ -29,6 +31,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Providing mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
  * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
+ * Applied the machine learning framework TensorFlow towards the estimation of aerodynamic properties of road vehicles
  * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
