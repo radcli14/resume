@@ -82,11 +82,24 @@ content:
         quote: > 
           Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group (2017-2023)
         description: |
-           * Managed 7 professional staff with advanced engineering degrees and research expertise
-           * Navigated the COVID-19 pandemic with zero furloughs, layoffs, or resignations
-           * Pursued new business opportunities by building relationships with program management and sponsors
-           * Coached staff members through the definition and achievement of their personal career objectives
-
+          * Managed 7 professional staff with advanced engineering degrees and research expertise
+          * Navigated the COVID-19 pandemic with zero furloughs, layoffs, or resignations
+          * Pursued new business opportunities by building relationships with program management and sponsors
+          * Coached staff members through the definition and achievement of their personal career objectives
+        quote: > 
+          Lead Engineer (2015-2016, 2020-2023)
+        description: |
+          * Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
+          * Briefed results of APL analyses to government and industry teams
+          * Authored documentation describing functionality of critical hardware subsystems   
+        quote: > 
+          Subject Matter Expert in Structural Dynamics, System Identification, and Propulsion Test & Evaluation
+        description: |
+          * Developed modal analysis and digital signal processing algorithms in MATLAB and Python
+          * Created flexible airframe dynamics simulation models using finite element modeling and multibody dynamics software, including Abaqus and SimScape Multibody
+          <!--* Supported conceptualization, manufacturing, and integration of test equipment-->
+          * Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -111,7 +124,7 @@ content:
           The software forms a bridge between the”first-principles” approach to dynamics problem solving, and the modern approach using advanced (and expensive) commercial software applications.
           
   - title: Technical Skills and Miscellaneous
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
        * __Programming:__ Python, Swift, Kotlin, C#, MATLAB, Mathematica, LabVIEW
        * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
