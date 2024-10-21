@@ -66,10 +66,26 @@ content:
         sub_title: District of Columbia | Dynamics & Control | Design & Code | Data Analytics & Consulting
         caption: December 2023 - Present
         quote: >
-          A bag of tricks from a scientific box
-        description: | # this will include new lines to allow paragraphs
-          I founded an independent software development company, creating education-grade engineering applications, focused on mobile platforms to be inclusive of students and professionals at all budgets. 
-          We also provide mechanical, aerospace, and software engineering services and consulting.
+          Founder and Independent Software Developer
+        description: | # this will include new lines to allow paragraphs # I founded an independent software development company, creating education-grade engineering applications, focused on mobile platforms to be inclusive of students and professionals at all budgets. # We also provide mechanical, aerospace, and software engineering services and consulting.
+          * Providing mechanical, aerospace, and software engineering services
+          * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
+          * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
+          * Applied the machine learning framework TensorFlow to the estimation of aerodynamic properties of race cars
+          * Released applications on the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767) and [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507)
+          * Published Python notebooks on the simulation and visualization of mechanical systems, see: [Double Pendulum](https://www.dc-engineer.com/double-pendulum/)
+          
+      - layout: left
+        title: JHU/APL
+        sub_title: The Johns Hopkins University Applied Physics Laboratory
+        caption: 2010 - 2023
+        quote: > 
+          Dynamics Section Supervisor in the Aerospace and Mechanical Engineering Group (2017-2023)
+        description: |
+           * Managed 7 professional staff with advanced engineering degrees and research expertise
+           * Navigated the COVID-19 pandemic with zero furloughs, layoffs, or resignations
+           * Pursued new business opportunities by building relationships with program management and sponsors
+           * Coached staff members through the definition and achievement of their personal career objectives
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
