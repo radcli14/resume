@@ -7,8 +7,8 @@
 
 ## Objective
 
-Seeking leadership opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
-I am passionate about modeling and simulation of moving mechanical assemblies, and 3-D design and rendering of those systems on novel platforms, including mobile devices.
+Seeking opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
+I am passionate about simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile devices.
 <!--- Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
 My professional goal is to transition from a mechanical to software engineering career.
 A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms. --->
@@ -22,6 +22,16 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 ### B.S. Mechanical Engineering, Michigan State University, 2007
 
+## Technical Skills and Miscellaneous
+
+ * __Programming:__ Python, Swift, Kotlin, C#, MATLAB, Mathematica, LabVIEW
+ * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
+ * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
+ * __3-D Rendering:__ Unity, SceneKit, RealityKit, Google Filament, Three.js
+ * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
+ * __Office/Typesetting:__ Microsoft Office, LaTeX
+ * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
+ * __Security Clearance:__ SECRET, active from 2010-2023
 
 ## Experience
 
@@ -29,6 +39,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
 #### Founder and Independent Software Developer
  * Providing mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
+ * Published Python notebooks on the simulation and visualization of mechanical systems, see: [Double Pendulum](https://www.dc-engineer.com/double-pendulum/)
  * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
  * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
  * Applied the machine learning framework TensorFlow to the estimation of aerodynamic properties of race cars
@@ -53,7 +64,7 @@ A long term personal goal is to apply these skills to bringing education-grade e
 
  * Developed modal analysis and digital signal processing algorithms in MATLAB and Python
  * Created flexible airframe dynamics simulation models using finite element modeling and multibody dynamics software, including Abaqus and SimScape Multibody
- * Supported conceptualization, manufacturing, and integration of test equipment
+ <!--* Supported conceptualization, manufacturing, and integration of test equipment-->
  * Championed aeroelasticity modeling as a core competency and growth area for the dynamics section
 
 
@@ -74,18 +85,6 @@ A long term personal goal is to apply these skills to bringing education-grade e
  * Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
  * Presented findings to branch and GSRP peer groups
 
-   
-## Miscellaneous
-
- * __Programming:__ Swift, Kotlin, Python, C#, MATLAB, Mathematica, LabVIEW
- * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
- * __3-D Rendering:__ Unity, SceneKit, RealityKit, Google Filament, Three.js
- * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
- * __Office/Typesetting:__ Microsoft Office, LaTeX
- * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
- * __Security Clearance:__ SECRET, active from 2010-2023
-
-
 ## Code Examples
 
 ### YouKon
@@ -100,12 +99,12 @@ A long term personal goal is to apply these skills to bringing education-grade e
 * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
 * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
-
+<!--
 ### Double Pendulum Simulation
 
 * Derivation of equations of motion in Python, using `sympy`, `scipy`, `numpy`, and `matplotlib`
 * [https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed](https://gist.github.com/radcli14/b48c40d200d0732859b11d75f700eeed)
-
+-->
 
 ## Formal Communications
 
