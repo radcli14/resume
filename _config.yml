@@ -90,20 +90,40 @@ content:
         link: https://www.dc-engineer.com/mobile-multibody-dynamics/
         link_text: Official Website
         additional_links:
-          - title:  Download on the App Store
+          - title: Download on the App Store
             icon: fab fa-app-store-ios
             url: https://apps.apple.com/us/app/mobile-multibody-dynamics/id1491149780
-          - title:  MOMDYN on YouTube
+          - title: MOMDYN on YouTube
             icon: fab fa-youtube
             url: https://www.youtube.com/channel/UC7ij1ezmh8a3Q7N3gF4zUkQ
-          - title:  Documentation
-            icon: fab fa-file-lines
+          - title: Documentation
+            icon: fab fa-circle-info
             url: https://momdyn.github.io/html/index.html
         quote: >
           The first multibody dynamics app for iOS and Android
         description: | # this will include new lines to allow paragraphs
-          MOMDYN provides an easy to use graphical interface that is familiar to engineers and physicists who have studied classical mechanics, with a powerful set of features similar to modern modeling and simulation software. 
-          The software forms a bridge between the”first-principles” approach to dynamics problem solving, and the modern approach using advanced (and expensive) commercial software applications.
+          MOMDYN provides a native UI that is familiar to engineers and physicists who have studied classical mechanics, with a powerful set of features similar to modern modeling and simulation software. 
+          A Python-based numerical equation generation and solving engine provides the scientific backbone for native iOS and Android applications written in Swift and Kotlin.
+
+      - layout: top-middle
+        title: Juego de la Rana
+        link: https://www.dc-engineer.com/juego-de-la-rana//
+        link_text: Official Website
+        additional_links:
+          - title:  Download on the App Store
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/us/app/juego-de-la-rana/id6680199511
+          - title:  GitHub
+            icon: fab fa-github
+            url: https://github.com/radcli14/larana
+          - title:  Making of video on YouTube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=vuecTw81q-k&t=5s
+        quote: >
+          An augmented reality (AR) version of the Basque tavern game
+        description: | # this will include new lines to allow paragraphs
+            La Rana is an adaptation of the real-world game where one attempts to toss a coin into the mouth of a brass frog statue.
+            The iOS game is created using the RealityKit framework, with 3D models created using Blender and photogrammetry.
 
   - title: Industry Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,9 +162,11 @@ content:
         quote: > 
           Performed aeroacoustics research leading to a journal publication and patent
         description: |
-         * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
-         * Implemented control system design techniques and evaluated optical displacement sensor technologies
-         * Published results in a peer reviewed journal article and received a US patent
+          **Graduate Research Assistant**
+
+           * Developed a feedback-controlled, self-calibrating microphone prototype for aeroacoustics research
+           * Implemented control system design techniques and evaluated optical displacement sensor technologies
+           * Published results in a peer reviewed journal article and received a US patent
 
       - layout: left
         title: NASA LaRC
@@ -153,9 +175,11 @@ content:
         quote: > 
           Received a prestigious Graduate Student Research Program (GSRP) fellowship
         description: |
-         * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
-         * Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
-         * Presented findings to branch and GSRP peer groups
+          **GSRP Summer Intern**
+
+            * Set up a laboratory test to replicate facility used at MSU for validation of microphone prototype concepts
+            * Collaborated with NASA experts in the fields of acoustical measurement and digital signal processing
+            * Presented findings to branch and GSRP peer groups
 
   - title: Publications
     layout: text
