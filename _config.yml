@@ -37,7 +37,7 @@ youtube_username: mobilemultibodydynamics
 
 # About Section
 # about_title: About Me
-about_profile_image: images/puppyMobileSiteLinkImage.jpg.jpg
+about_profile_image: images/puppyMobileSiteLinkImage.jpg
 about_content: | # this will include new lines to allow paragraphs
   Seeking opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
   I am passionate about simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile devices.
@@ -79,14 +79,17 @@ content:
         link: https://www.dc-engineer.com/mobile-multibody-dynamics/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  Download on the App Store
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/us/app/mobile-multibody-dynamics/id1491149780
+          - title:  MOMDYN on YouTube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/channel/UC7ij1ezmh8a3Q7N3gF4zUkQ
+          - title:  Documentation
+            icon: fab fa-file-lines
+            url: https://momdyn.github.io/html/index.html
         quote: >
-          the first multibody dynamics app for iOS and Android
+          The first multibody dynamics app for iOS and Android
         description: | # this will include new lines to allow paragraphs
           MOMDYN provides an easy to use graphical interface that is familiar to engineers and physicists who have studied classical mechanics, with a powerful set of features similar to modern modeling and simulation software. 
           The software forms a bridge between the”first-principles” approach to dynamics problem solving, and the modern approach using advanced (and expensive) commercial software applications.
