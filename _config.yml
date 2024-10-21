@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eliott Radcliffe
-title: Mechanical Engineer and Dynamics Expert, with a Record of Success in Leadership and Staff Development
+title: Mechanical engineer, dynamics expert, and mobile application developer, with a history of success in leadership and staff development
 email: eliott.radcliffe@dc-engineer.com
 website: https://www.dc-engineer.com
 
@@ -39,8 +39,9 @@ youtube_username: mobilemultibodydynamics
 # about_title: About Me
 about_profile_image: images/puppyMobileSiteLinkImage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Seeking opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
-  I am passionate about simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile devices.
+  I have over a decade of industry experience at a university affiliated research center providing expertise on large-scale aerospace projects.
+  For the past year, I have begun a transition into a career focused on software development, with a passion for simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile and augmented reality devices.
+  Currently, I am seeking consulting, contracting, or freelance opportunities in an entrepreneurial or startup environment where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
 
 content:
 
@@ -97,7 +98,7 @@ content:
             icon: fab fa-youtube
             url: https://www.youtube.com/channel/UC7ij1ezmh8a3Q7N3gF4zUkQ
           - title: Documentation
-            icon: fab fa-circle-info
+            icon: fab fa-info
             url: https://momdyn.github.io/html/index.html
         quote: >
           The first multibody dynamics app for iOS and Android
@@ -107,23 +108,40 @@ content:
 
       - layout: top-middle
         title: Juego de la Rana
-        link: https://www.dc-engineer.com/juego-de-la-rana//
+        link: https://www.dc-engineer.com/juego-de-la-rana/
         link_text: Official Website
         additional_links:
-          - title:  Download on the App Store
+          - title: Download on the App Store
             icon: fab fa-app-store-ios
             url: https://apps.apple.com/us/app/juego-de-la-rana/id6680199511
-          - title:  GitHub
+          - title: GitHub
             icon: fab fa-github
             url: https://github.com/radcli14/larana
-          - title:  Making of video on YouTube
+          - title: Making of video on YouTube
             icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=vuecTw81q-k&t=5s
         quote: >
           An augmented reality (AR) version of the Basque tavern game
         description: | # this will include new lines to allow paragraphs
-            La Rana is an adaptation of the real-world game where one attempts to toss a coin into the mouth of a brass frog statue.
-            The iOS game is created using the RealityKit framework, with 3D models created using Blender and photogrammetry.
+          La Rana is an adaptation of the real-world game where one attempts to toss a coin into the mouth of a brass frog statue.
+          The iOS game is created using the RealityKit framework, with 3D models created using Blender and photogrammetry.
+
+      - layout: top-middle
+        title: YouKon
+        link: https://www.dc-engineer.com/youkon/
+        link_text: Official Website
+        additional_links:
+          - title: GitHub
+            icon: fab fa-github
+            url: https://github.com/radcli14/youkon
+          - title: Material properties video on YouTube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=83AwR-pyuDk&t=10s
+        quote: >
+          A unit converter designed for engineers
+        description: | # this will include new lines to allow paragraphs
+          YouKon provides a convenient interface to create databases of engineering properties, and simultaneous conversion to a consistent unit system.
+          The application is created in Jetpack Compose Multiplatform for deployment to iOS and Android from a single code base.
 
   - title: Industry Experience # Title for the section
     layout: list # Type of content section (list/text)
