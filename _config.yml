@@ -15,7 +15,7 @@ website: https://www.dc-engineer.com
 darkmode: false
 
 # Social links
-github_username:  radcli14
+github_username: radcli14
 instagram_username: radcli14
 linkedin_username: eliott-radcliffe-dcdc-llc
 youtube_username: mobilemultibodydynamics
@@ -61,7 +61,7 @@ content:
        * __Programming:__ Python, Swift, Kotlin, C#, MATLAB, Mathematica, LabVIEW
        * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
        * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
-       * __3-D Rendering:__ Unity, SceneKit, RealityKit, Google Filament, Three.js
+       * __3-D Rendering:__ Unity, Blender, RealityKit, SceneKit, Google Filament, Three.js
        * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
        * __Office/Typesetting:__ Microsoft Office, LaTeX
        * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
@@ -80,10 +80,9 @@ content:
           Founder and independent software developer
         description: | # this will include new lines to allow paragraphs # I founded an independent software development company, creating education-grade engineering applications, focused on mobile platforms to be inclusive of students and professionals at all budgets. # We also provide mechanical, aerospace, and software engineering services and consulting.
           * Providing mechanical, aerospace, and software engineering services
-          * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
-          * Applied the machine learning framework TensorFlow to the estimation of aerodynamic properties of race cars
-          * Released applications on the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767) and [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507)
-          * Published Python notebooks on the simulation and visualization of mechanical systems, see: [Double Pendulum](https://www.dc-engineer.com/double-pendulum/)
+          * Wrote code in Swift, Kotlin, and Python for mobile and multi-platform deployment
+          * Specialized in creating educational and applied content for engineers, and 3D experiences for mobile and augmented reality devices
+          * Created a machine learning model in TensorFlow for a client in the video game industry to estimate aerodynamic properties of race cars
 
       - layout: top-middle
         title: MOMDYN
