@@ -1,6 +1,6 @@
 # Eliott Radcliffe
 
- * Washington, DC, USA
+ * Bilbao, PV, España and Washington, DC, USA 
  * [eliott.radcliffe@dc-engineer.com](mailto:eliott.radcliffe@dc-engineer.com)
  * [https://github.com/radcli14](https://github.com/radcli14)
 
