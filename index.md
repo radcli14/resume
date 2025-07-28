@@ -22,10 +22,10 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 
 ## Technical Skills and Miscellaneous
 
- * __Programming:__ Python, Swift, Kotlin, C#, MATLAB, Mathematica, LabVIEW
+ * __Programming:__ Swift, Kotlin, Python, C#, C++, Java, MATLAB, Mathematica, LabVIEW
  * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
  * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
- * __3-D Rendering:__ Unity, SceneKit, RealityKit, Google Filament, Three.js
+ * __3-D Rendering:__ Unity, Blender, RealityKit, SceneKit, Google Filament, Three.js, OpenGL
  * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
  * __Office/Typesetting:__ Microsoft Office, LaTeX
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
@@ -56,6 +56,7 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 #### Lead Engineer (2015-2016, 2020-2023)
 
  * Led hardware sustainment & reliability, trajectory simulation, and hardware-in-the-loop teams
+ * Received an award signed by an US Navy Admiral recognizing my contribution resulting in a $100 million cost saving
  * Briefed results of APL analyses to government and industry teams
  * Authored documentation describing functionality of critical hardware subsystems   
  
@@ -86,17 +87,23 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 
 ## Code Examples
 
+### BB25
+
+* Interactive 3D/AR simulation of a differential drive robot using RealityKit
+* High-fidelity physics simulation using MuJoCo
+* [BB25 on GitHub](https://github.com/radcli14/BB25)
+
 ### YouKon
 
-* Unit conversion app designed for engineers, written with Kotlin Multiplatform Mobile
-* Native interfaces for iOS with SwiftUI and Android with Jetpack Compose
-* [https://github.com/radcli14/youkon](https://github.com/radcli14/youkon)
+* Unit conversion app designed for engineers, written with Kotlin Compose Multiplatform
+* Authentication and cloud storage using Firebase, and monetization using RevenueCat
+* [YouKon on GitHub](https://github.com/radcli14/youkon)
 
 ### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
 
 * Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulum
 * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
-* [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
+* [TwoLinks on GitHub](https://github.com/radcli14/twolinks)
 
 <!--
 ### Double Pendulum Simulation
