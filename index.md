@@ -7,12 +7,10 @@
 
 ## Objective
 
-Seeking opportunities in an entrepreneurial or startup environment, where I will apply over a decade of mechanical and aerospace engineering experience, alongside a unique software application development skillset.
-I am passionate about simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile devices.
-<!--- Pursuing opportunities to create mobile application content and improve my technical abilities in the Swift and Kotlin programming languages. 
-My professional goal is to transition from a mechanical to software engineering career.
-A long term personal goal is to apply these skills to bringing education-grade engineering and physics applications to the masses using mobile platforms. --->
-
+I'm a mobile application developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
+I specialize in building interactive apps that combine real-world physics with immersive 3D and augmented reality (AR) experiences, and am passionate about simulation and analysis of moving mechanical systems. 
+I develop for iOS using Swift and RealityKit, and I'm also experienced in building multiplatform applications for Android using Jetpack Compose. 
+My 3D development background includes tools like Blender and Three.js, enabling me to deliver cross-platform AR and 3D visualization experiences for mobile, desktop, and web.
 
 ## Education
 
@@ -38,12 +36,13 @@ A long term personal goal is to apply these skills to bringing education-grade e
 ### DCDC LLC, 2023 - Present
 
 #### Founder and Independent Software Developer
- * Providing mechanical, aerospace, and software engineering services, see: [dc-engineer.com](https://www.dc-engineer.com/)
- * Published Python notebooks on the simulation and visualization of mechanical systems, see: [Double Pendulum](https://www.dc-engineer.com/double-pendulum/)
- * Created [`Mobile Multibody Dynamics`](https://www.momdyn.com/), the first-of-its-kind for Android and iOS
- * Wrote code in Swift, Kotlin, and Python for multi-platform deployment
- * Applied the machine learning framework TensorFlow to the estimation of aerodynamic properties of race cars
- * Released applications on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
+
+ * Provide mechanical, aerospace, and software engineering services to clients across industries, see: [dc-engineer.com](https://www.dc-engineer.com/)
+ * Develop cross-platform mobile applications using Swift (iOS), Kotlin (Android), and Python, on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
+ * Create 3D and AR experiences for mobile devices, using RealityKit, ARKit, and Jetpack Compose
+ * Build educational and applied tools for engineers, focusing on simulation, visualization, and user interactivity
+ * Trained and deployed a TensorFlow-based machine learning model for a racing game to predict aerodynamic properties of cars
+ * Designed and launched a hearing test iOS app using SwiftUI and AVFoundation, featuring precise audio playback and intuitive UI
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
