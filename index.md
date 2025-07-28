@@ -91,19 +91,19 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 
 * Interactive 3D/AR simulation of a differential drive robot using RealityKit
 * High-fidelity physics simulation using MuJoCo
-* [BB25 on GitHub](https://github.com/radcli14/BB25)
+* [https://github.com/radcli14/BB25](https://github.com/radcli14/BB25)
 
 ### YouKon
 
 * Unit conversion app designed for engineers, written with Kotlin Compose Multiplatform
 * Authentication and cloud storage using Firebase, and monetization using RevenueCat
-* [YouKon on GitHub](https://github.com/radcli14/youkon)
+* [https://github.com/radcli14/youkon](https://github.com/radcli14/youkon)
 
 ### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
 
 * Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulum
 * Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
-* [TwoLinks on GitHub](https://github.com/radcli14/twolinks)
+* [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
 <!--
 ### Double Pendulum Simulation
