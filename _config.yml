@@ -16,9 +16,9 @@ darkmode: false
 
 # Social links
 github_username: radcli14
-instagram_username: radcli14
+#instagram_username: eliott.radcliffe
 linkedin_username: eliott-radcliffe-dcdc-llc
-youtube_username: mobilemultibodydynamics
+youtube_username: dc-engineer
 
 # Additional icon links
 # additional_links:
@@ -58,10 +58,10 @@ content:
   - title: Technical Skills and Miscellaneous
     layout: text
     content: | # this will include new lines to allow paragraphs
-       * __Programming:__ Python, Swift, Kotlin, C#, MATLAB, Mathematica, LabVIEW
+       * __Programming:__ Python, Swift, Kotlin, JavaScript, C#, MATLAB, Mathematica, LabVIEW
        * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
        * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
-       * __3-D Rendering:__ Unity, Blender, RealityKit, SceneKit, Google Filament, Three.js
+       * __3-D Rendering:__ RealityKit, Blender, Three.js, Unity, SceneKit, Google Filament
        * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
        * __Office/Typesetting:__ Microsoft Office, LaTeX
        * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
@@ -85,6 +85,13 @@ content:
           * Created a machine learning model in TensorFlow for a client in the video game industry to estimate aerodynamic properties of race cars
 
       - layout: top-middle
+        title: ARMOR
+        sub-title: AR Mobile Robotics
+        link: https://www.dc-engineer.com/armor
+        link_text: Official Website
+        quote: A 3D URDF viewer and robot simulation app for your iPhone, iPad, or Mac.
+
+      - layout: top-middle
         title: MOMDYN
         sub_title: Mobile Multibody Dynamics
         link: https://www.dc-engineer.com/mobile-multibody-dynamics/
@@ -95,7 +102,7 @@ content:
             url: https://apps.apple.com/us/app/mobile-multibody-dynamics/id1491149780
           - title: MOMDYN on YouTube
             icon: fab fa-youtube
-            url: https://www.youtube.com/channel/UC7ij1ezmh8a3Q7N3gF4zUkQ
+            url: https://www.youtube.com/@dc-engineer
           - title: Documentation
             icon: fab fa-info
             url: https://momdyn.github.io/html/index.html
