@@ -37,7 +37,7 @@ youtube_username: dc-engineer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/armorProfilePic.png
+about_profile_image: images/armorProfilePic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I have over a decade of industry experience at a university affiliated research center, specializing in dynamics and control systems, and providing expertise on large-scale aerospace projects.
   My vision is to create applications that bridge the gap between physical hardware and digital simulation. 
