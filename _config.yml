@@ -40,7 +40,7 @@ youtube_username: dc-engineer
 about_profile_image: images/puppyMobileSiteLinkImage.jpg
 about_content: | # this will include new lines to allow paragraphs
   I have over a decade of industry experience at a university affiliated research center providing expertise on large-scale aerospace projects.
-  For the past year, I have begun a transition into a career focused on software development, with a passion for simulation and analysis of moving mechanical systems, and 3-D design and visualization on novel platforms, including mobile and augmented reality devices.
+  For the past year, I have begun a transition into a career focused on software development, with a passion for simulation and analysis of moving mechanical systems, and 3D design and visualization on novel platforms, including mobile and augmented reality devices.
   Currently, I am seeking consulting, contracting, or freelance opportunities in an entrepreneurial or startup environment, where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
 
 content:
@@ -61,7 +61,7 @@ content:
        * __Programming:__ Python, Swift, Kotlin, JavaScript, C#, MATLAB, Mathematica, LabVIEW
        * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
        * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
-       * __3-D Rendering:__ RealityKit, Blender, Three.js, Unity, SceneKit, Google Filament
+       * __3D Rendering:__ RealityKit, Blender, Three.js, Unity, SceneKit, Google Filament
        * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
        * __Office/Typesetting:__ Microsoft Office, LaTeX
        * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
@@ -80,9 +80,15 @@ content:
           Founder and independent software developer
         description: | # this will include new lines to allow paragraphs # I founded an independent software development company, creating education-grade engineering applications, focused on mobile platforms to be inclusive of students and professionals at all budgets. # We also provide mechanical, aerospace, and software engineering services and consulting.
           * Providing mechanical, aerospace, and software engineering services
-          * Wrote code in Swift, Kotlin, and Python for mobile and multi-platform deployment
-          * Specialized in creating educational and applied content for engineers, and 3D experiences for mobile and augmented reality devices
-          * Created a machine learning model in TensorFlow for a client in the video game industry to estimate aerodynamic properties of race cars
+          * Wrote code in Swift, Kotlin, Python, and JavaScript for mobile and multi-platform deployment
+          * Specialized in creating educational and applied content for engineers, and 3D experiences for mobile and augmented reality (AR) devices
+          * Client projects include:
+            - A machine learning model in TensorFlow to estimate aerodynamic properties of race cars
+            - AR-based measurement and object placement for a landscape design application
+            - Multiplatform local area and remote networking for a custom Android device
+
+      - layout: left
+        title: Projects
 
       - layout: top-middle
         title: ARMOR
@@ -90,6 +96,9 @@ content:
         link: https://www.dc-engineer.com/armor
         link_text: Official Website
         quote: A 3D URDF viewer and robot simulation app for your iPhone, iPad, or Mac.
+        description: |
+          ARMOR combines a parser and editor for the industry standard Universal Robot Description Format (URDF), with AR visualization, and Google Deepmind's MuJoCo simulation framework.
+          It is designed to enable robotics professionals to visualize and experiment with their projects on a convneient mobile interface.
 
       - layout: top-middle
         title: MOMDYN
