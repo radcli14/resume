@@ -37,7 +37,7 @@ youtube_username: dc-engineer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/v2whiteBuildingsBlueSky.png
+about_profile_image: images/v2LinkedIn.png
 about_content: | # this will include new lines to allow paragraphs
   I have over a decade of industry experience at a university affiliated research center providing expertise on large-scale aerospace projects.
   For the past year, I have begun a transition into a career focused on software development, with a passion for simulation and analysis of moving mechanical systems, and 3D design and visualization on novel platforms, including mobile and augmented reality devices.
@@ -109,6 +109,9 @@ content:
           - title: Download on the App Store
             icon: fab fa-app-store-ios
             url: https://apps.apple.com/us/app/mobile-multibody-dynamics/id1491149780
+          - title: Get it on Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.badeyedea.momdyn
           - title: MOMDYN on YouTube
             icon: fab fa-youtube
             url: https://www.youtube.com/@dc-engineer
@@ -146,6 +149,12 @@ content:
         link: https://www.dc-engineer.com/youkon/
         link_text: Official Website
         additional_links:
+          - title: Download on the App Store
+            icon: fab fa-app-store-ios
+            url: https://apps.apple.com/us/app/youkon-engineer-unit-converter/id6477476799
+          - title: Get it on Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.dcengineer.youkon
           - title: GitHub
             icon: fab fa-github
             url: https://github.com/radcli14/youkon
