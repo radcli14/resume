@@ -37,7 +37,7 @@ youtube_username: dc-engineer
 
 # About Section
 # about_title: About Me
-about_profile_image: images/puppyMobileSiteLinkImage.jpg
+about_profile_image: images/v2whiteBuildingsBlueSky.png
 about_content: | # this will include new lines to allow paragraphs
   I have over a decade of industry experience at a university affiliated research center providing expertise on large-scale aerospace projects.
   For the past year, I have begun a transition into a career focused on software development, with a passion for simulation and analysis of moving mechanical systems, and 3D design and visualization on novel platforms, including mobile and augmented reality devices.
@@ -87,8 +87,8 @@ content:
             - AR-based measurement and object placement for a landscape design application
             - Multiplatform local area and remote networking for a custom Android device
 
-      - layout: left
-        title: Projects
+      - layout: top-middle
+        title: __Projects__
 
       - layout: top-middle
         title: ARMOR
