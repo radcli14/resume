@@ -23,7 +23,7 @@ youtube_username: dc-engineer
 # Additional icon links
 additional_links:
   - title: My Resumé in PDF format
-    icon: fab fa-file-pdf
+    icon: fas fa-file-pdf-o
     url: https://radcli14.github.io/resume/Radcliffe_Eliott_Engineer_Resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -118,7 +118,7 @@ content:
             icon: fab fa-youtube
             url: https://www.youtube.com/@dc-engineer
           - title: Documentation
-            icon: fab fa-file-text
+            icon: fas fa-file-text
             url: https://momdyn.github.io/html/index.html
         quote: >
           The first multibody dynamics app for iOS and Android
