@@ -87,6 +87,7 @@ content:
             - A machine learning model in TensorFlow to estimate aerodynamic properties of race cars
             - AR-based measurement and object placement for a landscape design application
             - Multiplatform local area and remote networking for a custom Android device
+            - A published hearing test and audiogram analysis app using SwiftUI and AVFoundation
 
       - layout: top-middle
         title: __Projects__
