@@ -8,7 +8,7 @@
 ## Objective
 
 I'm a software (mobile, web) developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
-My vision is to create applications that bridge the gap between physical hardware and digital simulation. Recent projects focus on creating AR-based human-machine interfacs, and using robotics simulation tools (URDF/MuJoCo) that enable professionals to visualize and test complex systems on mobile devices
+My vision is to create applications that bridge the gap between physical hardware and digital simulation. Recent projects focus on creating AR-based human-machine interfacs, and using robotics simulation tools (URDF/MuJoCo) that enable professionals to visualize and test complex systems on mobile devices.
 I am seeking consulting, contracting, or freelance opportunities in an entrepreneurial or startup environment, where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
 
 ## Education
