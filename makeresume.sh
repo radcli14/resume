@@ -3,7 +3,7 @@ pandoc index.md \
     --pdf-engine=xelatex \
     --include-in-header=header.tex \
     --variable "geometry=margin=0.6in" \
-    --variable mainfont="Roboto" \
+    --variable mainfont="Helvetica" \
     --variable fontsize=11pt \
     --variable colorlinks=true \
     --variable linkcolor=blue \

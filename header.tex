@@ -7,7 +7,38 @@
 % Tighten up list spacing for a one-page feel
 \setlist[itemize]{noitemsep, topsep=0pt}
 
-% Style section headings with a horizontal rule
-\titleformat{\section}{\large\bfseries\sffamily}{}{0em}{}[\titlerule]
+% # (H1) - Title section headings with a horizontal rule (My Name)
+\titleformat{\section}
+  {\huge\bfseries\sffamily}
+  {}{0em}
+  {}[\titlerule]
 \titlespacing*{\section}{0pt}{12pt}{8pt}
 
+% Define a Professional Navy Color
+\definecolor{darknavy}{HTML}{112244}
+\definecolor{medgrey}{HTML}{444444}
+
+% ## (H2) - Main Sections (Education, Experience, etc.)
+\titleformat{\subsection}
+  {\Large\bfseries\sffamily\color{darknavy}}
+  {}{0em}
+  {}[\titlerule]
+\titlespacing*{\subsection}{0pt}{18pt}{8pt}
+
+% ### (H3) - Sub-headers (Company names / Schools)
+\titleformat{\subsubsection}
+  {\large\bfseries\sffamily\color{darknavy}}
+  {}{0em}
+  {}
+\titlespacing*{\subsubsection}{0pt}{10pt}{4pt}
+
+% #### (H4) - Minor headers (Project titles / Dates)
+\titleformat{\paragraph}
+  {\large\itshape\sffamily\color{medgrey}}
+  {}{0em}
+  {}
+\titlespacing*{\paragraph}{0pt}{6pt}{2pt}
+
+% Fix for list spacing
+\setlist[itemize]{noitemsep, topsep=2pt, parsep=2pt, leftmargin=1.5em}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}

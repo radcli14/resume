@@ -19,6 +19,8 @@ I am seeking consulting, contracting, or freelance opportunities in an entrepren
 
 ### B.S. Mechanical Engineering, Michigan State University, 2007
 
+\bigskip
+
 ## Technical Skills and Miscellaneous
 
  * __Programming:__ Swift, Kotlin, Python, JavaScript, C#, C++, Java, MATLAB, Mathematica, LabVIEW
@@ -44,7 +46,7 @@ I am seeking consulting, contracting, or freelance opportunities in an entrepren
    - A machine learning model in TensorFlow to estimate aerodynamic properties of race cars
    - AR-based measurement and object placement for a landscape design application
    - Multiplatform local area and remote networking for a custom Android device
-   - A published hearing test and audiogram analysis app using SwiftUI and AVFoundation
+   - Hearing test and audiogram analysis app using SwiftUI and AVFoundation
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
