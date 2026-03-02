@@ -7,10 +7,9 @@
 
 ## Objective
 
-I'm a mobile application developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
-I specialize in building interactive apps that combine real-world physics with immersive 3D and augmented reality (AR) experiences, and am passionate about simulation and analysis of moving mechanical systems. 
-I develop for iOS using Swift and RealityKit, and I'm also experienced in building multiplatform applications for Android using Jetpack Compose. 
-My 3D development background includes tools like Blender and Three.js, enabling me to deliver cross-platform AR and 3D visualization experiences for mobile, desktop, and web.
+I'm a software (mobile, web) developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
+My vision is to create applications that bridge the gap between physical hardware and digital simulation. Recent projects focus on creating AR-based human-machine interfacs, and using robotics simulation tools (URDF/MuJoCo) that enable professionals to visualize and test complex systems on mobile devices
+I am seeking consulting, contracting, or freelance opportunities in an entrepreneurial or startup environment, where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
 
 ## Education
 
@@ -22,10 +21,10 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 
 ## Technical Skills and Miscellaneous
 
- * __Programming:__ Swift, Kotlin, Python, C#, C++, Java, MATLAB, Mathematica, LabVIEW
- * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow
+ * __Programming:__ Swift, Kotlin, Python, JavaScript, C#, C++, Java, MATLAB, Mathematica, LabVIEW
+ * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow, MuJoCo
  * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
- * __3-D Rendering:__ Unity, Blender, RealityKit, SceneKit, Google Filament, Three.js, OpenGL
+ * __3-D Rendering:__ Unity, Blender, RealityKit, Three.js, SceneKit, Google Filament, Three.js, OpenGL
  * __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
  * __Office/Typesetting:__ Microsoft Office, LaTeX
  * __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
@@ -38,11 +37,14 @@ My 3D development background includes tools like Blender and Three.js, enabling 
 #### Founder and Independent Software Developer
 
  * Provide mechanical, aerospace, and software engineering services to clients across industries, see: [dc-engineer.com](https://www.dc-engineer.com/)
- * Develop cross-platform mobile applications using Swift (iOS), Kotlin (Android), and Python, on [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) and the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767)
- * Create 3D and AR experiences for mobile devices, using RealityKit, ARKit, and Jetpack Compose
+ * Develop cross-platform mobile applications using Swift (iOS), Kotlin (Android), and Python, on the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767) and [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) 
+ * Create 3D and AR experiences for mobile devices, using RealityKit, ARKit, and Jetpack Compose, see: [AR Mobile Robotics](https://www.dc-engineer.com/armor)
  * Build educational and applied tools for engineers, focusing on simulation, visualization, and user interactivity
- * Trained and deployed a TensorFlow-based machine learning model for a racing game to predict aerodynamic properties of cars
- * Designed and launched a hearing test iOS app using SwiftUI and AVFoundation, featuring precise audio playback and intuitive UI
+ * Client projects include:
+   - A machine learning model in TensorFlow to estimate aerodynamic properties of race cars
+   - AR-based measurement and object placement for a landscape design application
+   - Multiplatform local area and remote networking for a custom Android device
+   - A published hearing test and audiogram analysis app using SwiftUI and AVFoundation
 
 ### Johns Hopkins University Applied Physics Laboratory (APL), 2010 - 2023
  
