@@ -59,14 +59,16 @@ content:
   - title: Technical Skills and Miscellaneous
     layout: text
     content: | # this will include new lines to allow paragraphs
-       * <i class="fas fa-code" aria-hidden="true"></i> __Programming:__ Python, Swift, Kotlin, JavaScript, C#, MATLAB, Mathematica, LabVIEW
-       * <i class="fas fa-chart-line" aria-hidden="true"></i> __Data Science & Dynamics:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow, MuJoCo
-       * <i class="fas fa-mobile-alt" aria-hidden="true"></i> __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
-       * <i class="fas fa-cube" aria-hidden="true"></i> __3D & AR:__ RealityKit, Blender, Three.js, Unity, SceneKit, Google Filament
-       * <i class="fas fa-gears" aria-hidden="true"></i> __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK
-       * <i class="fa fa-briefcase" aria-hidden="true"></i> __Office/Typesetting:__ Microsoft Office, LaTeX
-       * <i class="fas fa-award" aria-hidden="true"></i> __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)
-       * <i class="fas fa-shield-halved" aria-hidden="true"></i> __Security Clearance:__ SECRET, active from 2010-2023
+      <ul class="fa-ul">
+         <li><span class="fa-li"><i class="fas fa-code" aria-hidden="true"></i> __Programming:__ Python, Swift, Kotlin, JavaScript, C#, MATLAB, Mathematica, LabVIEW</li>
+         <li><span class="fa-li"><i class="fas fa-chart-line" aria-hidden="true"></i> __Data Science & Dynamics:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow, MuJoCo</li>
+         <li><span class="fa-li"><i class="fas fa-mobile-alt" aria-hidden="true"></i> __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform</li>
+         <li><span class="fa-li"><i class="fas fa-cube" aria-hidden="true"></i> __3D & AR:__ RealityKit, Blender, Three.js, Unity, SceneKit, Google Filament</li>
+         <li><span class="fa-li"><i class="fa fa-cogs" aria-hidden="true"></i> __Computer Aided Engineering:__ Abaqus, Simulink, Simscape Multibody, SIMPACK</li>
+         <li><span class="fa-li"><i class="fa fa-briefcase" aria-hidden="true"></i> __Office/Typesetting:__ Microsoft Office, LaTeX</li>
+         <li><span class="fa-li"><i class="fas fa-award" aria-hidden="true"></i> __Awards:__ NASA GSRP Fellowship (2008, 2009), Aegis Ballistic Missile Defense Excellence Award (2018)</li>
+         <li><span class="fa-li"><i class="fa fa-shield" aria-hidden="true"></i> __Security Clearance:__ SECRET, active from 2010-2023</li>
+       </ul>
 
   - title: Entrepreneurial Experience
     layout: list
