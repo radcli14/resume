@@ -9,7 +9,7 @@ version: 2
 name: Eliott Radcliffe
 title: Mechanical engineer, dynamics expert, and AR robotics software developer, with a history of success in leadership and staff development
 email: eliott.radcliffe@dc-engineer.com
-website: https://dc-engineer.com
+website: https://dc-engineer.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -73,7 +73,7 @@ content:
     content:
       - layout: left
         title: DCDC LLC
-        link: https://dc-engineer.com
+        link: https://dc-engineer.com/
         link_text: DC-Engineer.com
         sub_title: District of Columbia | Dynamics & Control | Design & Code | Data Analytics & Consulting
         caption: December 2023 - Present
@@ -95,7 +95,7 @@ content:
       - layout: top-middle
         title: <span translate="no">ARMOR</span>
         sub_title: <span translate="no">AR Mobile Robotics</span>
-        link: https://www.dc-engineer.com/armor
+        link: https://armor.dc-engineer.com/
         link_text: Official Website
         quote: 3D URDF viewer and robot simulation in AR
         description: |
@@ -105,7 +105,7 @@ content:
       - layout: top-middle
         title: <span translate="no">MOMDYN</span>
         sub_title: Mobile Multibody Dynamics
-        link: https://www.dc-engineer.com/mobile-multibody-dynamics/
+        link: https://dc-engineer.com/mobile-multibody-dynamics/
         link_text: Official Website
         additional_links:
           - title: Download on the App Store
@@ -128,7 +128,7 @@ content:
 
       - layout: top-middle
         title: <span translate="no">Juego de la Rana</span>
-        link: https://www.dc-engineer.com/juego-de-la-rana/
+        link: https://dc-engineer.com/juego-de-la-rana/
         link_text: Official Website
         additional_links:
           - title: Download on the App Store
@@ -148,7 +148,7 @@ content:
 
       - layout: top-middle
         title: <span translate="no">YouKon</span>
-        link: https://www.dc-engineer.com/youkon/
+        link: https://youkon.dc-engineer.com/
         link_text: Official Website
         additional_links:
           - title: Download on the App Store
