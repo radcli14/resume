@@ -7,9 +7,9 @@
 
 ## Objective
 
-I'm a software (mobile, web) developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
+I'm a software (mobile, web, AR/VR) developer with a background in mechanical engineering and over 10 years of experience in aerospace R&D. 
 My vision is to create applications that bridge the gap between physical hardware and digital simulation. Recent projects focus on creating AR-based human-machine interfacs, and using robotics simulation tools (URDF/MuJoCo) that enable professionals to visualize and test complex systems on mobile devices.
-I am seeking consulting, contracting, or freelance opportunities in an entrepreneurial or startup environment, where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
+I am seeking opportunities where I can leverage my unique multidisciplinary skillsets in mechanical and software fields.
 
 ## Education
 
@@ -23,7 +23,7 @@ I am seeking consulting, contracting, or freelance opportunities in an entrepren
 
 ## Technical Skills and Miscellaneous
 
- * __Programming:__ Swift, Kotlin, Python, JavaScript, C#, C++, Java, MATLAB, Mathematica, LabVIEW
+ * __Programming:__ Swift, Kotlin, C#, Python, JavaScript, C++, Java, MATLAB, Mathematica, LabVIEW
  * __Analysis:__ NumPy, SciPy, SymPy, Pandas, matplotlib, TensorFlow, MuJoCo
  * __App Development:__ SwiftUI, Jetpack Compose, Kotlin Multiplatform
  * __3-D Rendering:__ Unity, Blender, RealityKit, Three.js, SceneKit, Google Filament, Three.js, OpenGL
@@ -38,9 +38,9 @@ I am seeking consulting, contracting, or freelance opportunities in an entrepren
 
 #### Founder and Independent Software Developer
 
- * Provide mechanical, aerospace, and software engineering services to clients across industries, see: [dc-engineer.com](https://www.dc-engineer.com/)
+ * Provide mechanical, aerospace, and software engineering services to clients across industries, see: [dc-engineer.com](https://dc-engineer.com/)
  * Develop cross-platform mobile applications using Swift (iOS), Kotlin (Android), and Python, on the [App Store](https://apps.apple.com/us/developer/eliott-radcliffe/id1477487767) and [Google Play](https://play.google.com/store/apps/dev?id=8234827172371467507) 
- * Create 3D and AR experiences for mobile devices, using RealityKit, ARKit, and Jetpack Compose, see: [AR Mobile Robotics](https://www.dc-engineer.com/armor)
+ * Create 3D and AR experiences for mobile devices, using Unity, RealityKit, and ARCore, see: [AR Mobile Robotics](https://armor.dc-engineer.com/)
  * Build educational and applied tools for engineers, focusing on simulation, visualization, and user interactivity
  * Client projects include:
    - A machine learning model in TensorFlow to estimate aerodynamic properties of race cars
@@ -103,10 +103,10 @@ I am seeking consulting, contracting, or freelance opportunities in an entrepren
 * Authentication and cloud storage using Firebase, and monetization using RevenueCat
 * [https://github.com/radcli14/youkon](https://github.com/radcli14/youkon)
 
-### SwiftyTwoLinks and KotlyOtlyDobleDosLinks
+### TwoLinks
 
-* Native iOS and Android apps using Swift and Kotlin to create an interactive double pendulum
-* Physics-based 3D rendering using [`SceneKit`](https://developer.apple.com/documentation/scenekit/) and [`SceneView`](https://github.com/SceneView/sceneview-android)
+* Native iOS and Android apps using Kotlin Multiplatform and Jetpack Compose to create an interactive double pendulum
+* Physics-based 3D rendering using [`SceneView`](https://sceneview.github.io/)
 * [https://github.com/radcli14/twolinks](https://github.com/radcli14/twolinks)
 
 <!--
